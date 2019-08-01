@@ -57,6 +57,7 @@ class HomePage extends StatelessWidget {
         return _dialogExitApp(context);
       },
       child: new WWFTabBarWidget(
+//        drawer: new HomeDrawer(),
         tabItems: tabs,
         tabViews: [
           new MainPage(),

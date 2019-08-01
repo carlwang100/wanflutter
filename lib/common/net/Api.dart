@@ -1,4 +1,5 @@
 import 'dart:collection';
+import 'dart:io';
 
 import 'package:dio/dio.dart';
 import 'package:connectivity/connectivity.dart';
